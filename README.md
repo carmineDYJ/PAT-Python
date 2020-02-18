@@ -1,2 +1,2 @@
 # PAT-Python
-solutions in Python language for PAT's problems 
+solutions for PAT's problems which written in Python language
